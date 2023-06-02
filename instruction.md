@@ -34,37 +34,3 @@
 
 ### Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
-
-# Markdown 
-Язык разметки markdown используется для форматирования текста. Подробная инструкция по использованию можно найти на сайте [Markdown Guide](https://www.markdownguide.org/basic-syntax/). Там описан синтаксис, который необходимо использовать для разных типов форматирования текста. 
-
-## Примеры
-Например, язык markdown может использоваться для:
-- вставки ссылок: [GitHub](https://github.com/)
-- вставки картинок: 
-![cute kitty picture](https://preview.redd.it/ive-never-seen-a-more-expressive-kitty-v0-i75sqboq2h1a1.jpg?auto=webp&s=572577d04c352679d92d1f1068780d11ff260e88)
-- оформления цитат: 
-> You shall not pass!
-
-> We all live in a yellow submarine
->> yellow submarine
->>> yellow submarine
-
-Также с помощью markdown можно создавать таблицы:
-
-| Syntax | Description |
-|--------| ----------- |
-| # Header | First level header|
-| **bold text** | Bold text |
-
-и списки разных видов:
-1. Нумерованный
-2. Список
-
-- ненумерованный
-- список
-
-1. И списки
-    - с разной
-        - степенью
-            1. вложенности
